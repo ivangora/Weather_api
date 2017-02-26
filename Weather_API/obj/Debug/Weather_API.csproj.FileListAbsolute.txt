@@ -6,3 +6,4 @@ C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.Properties
 C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.csproj.GenerateResource.Cache
 C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.exe
 C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.pdb
+C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.Form1.resources
