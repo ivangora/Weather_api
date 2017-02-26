@@ -8,7 +8,6 @@ namespace Weather_API
 {
     class MainJSON
     {
-        public W_List Main { get; set; }
-
+        public List<W_List> list { get; set; }
     }
 }
