@@ -1,0 +1,8 @@
+C:\Users\ivan\Documents\Weather_API\Weather_API\bin\Debug\Weather_API.exe.config
+C:\Users\ivan\Documents\Weather_API\Weather_API\bin\Debug\Weather_API.exe
+C:\Users\ivan\Documents\Weather_API\Weather_API\bin\Debug\Weather_API.pdb
+C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.Properties.Resources.resources
+C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.csproj.GenerateResource.Cache
+C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.exe
+C:\Users\ivan\Documents\Weather_API\Weather_API\obj\Debug\Weather_API.pdb
